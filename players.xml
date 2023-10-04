@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="players.xsd" generated="2011-11-05T23:09:59">
+
+    <player>
+        <name>Thomas Ahern</name>
+        <position>Lock</position>
+        <caps>23</caps>
+        <image>tomahern.jpg</image>
+        <points>10</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/tom-ahern/</url>
+    </player>
+    <player>
+        <name>Stephen Archer</name>
+        <position>Prop</position>
+        <caps>252</caps>
+        <image>stephenarcher.jpg</image>
+        <points>30</points>
+        <honours>Ireland (2 caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/stephen-archer/</url>
+    </player>
+    <player>
+        <name>Diarmuid Barron</name>
+        <position>Hooker</position>
+        <caps>39</caps>
+        <image>diarmuidbarron.jpg</image>
+        <points>15</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/diarmuid-barron/</url>
+    </player>
+    <player>
+        <name>Tadhg Beirne</name>
+        <position>Lock/Back Row</position>
+        <caps>49</caps>
+        <image>tadhgbeirne.jpg</image>
+        <points>25</points>
+        <honours>Ireland (33 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/tadhg-beirne/</url>
+    </player>
+    <player>
+        <name>Scott Buckley</name>
+        <position>Hooker</position>
+        <caps>11</caps>
+        <image>scottbuckley.jpg</image>
+        <points>5</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/scott-buckley/</url>
+    </player>
+    <player>
+        <name>Joey Carbery</name>
+        <position>Fly Half</position>
+        <caps>42</caps>
+        <image>joeycarbery.jpg</image>
+        <points>355</points>
+        <honours>Ireland (35 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/joey-carbery/</url>
+    </player>
+    <player>
+        <name>Craig Casey</name>
+        <position>Scrum Half</position>
+        <caps>52</caps>
+        <image>craigcasey.jpg</image>
+        <points>62</points>
+        <honours>Ireland (5 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/craig-casey/</url>
+    </player>
+    <player>
+        <name>Andrew Conway</name>
+        <position>Full Back/Wing</position>
+        <caps>149</caps>
+        <image>andrewconway.jpg</image>
+        <points>245</points>
+        <honours>Ireland (30 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/andrew-conway/</url>
+    </player>
+    <player>
+        <name>Gavin Coombes</name>
+        <position>Back Row</position>
+        <caps>54</caps>
+        <image>gavincoombes.jpg</image>
+        <points>115</points>
+        <honours>Ireland (2 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/gavin-coombes/</url>
+    </player>
+    <player>
+        <name>Liam Coombes</name>
+        <position>Wing/Centre</position>
+        <caps>16</caps>
+        <image>liamcoombes.jpg</image>
+        <points>25</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/liam-coombes/</url>
+    </player>
+    <player>
+        <name>Neil Cronin</name>
+        <position>Scrum Half</position>
+        <caps>35</caps>
+        <image>neilcronin.jpg</image>
+        <points>10</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/neil-cronin/</url>
+    </player>
+    <player>
+        <name>Jack Crowley</name>
+        <position>Fly Half</position>
+        <caps>19</caps>
+        <image>jackcrowley.jpg</image>
+        <points>58</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/jack-crowley/</url>
+    </player>
+    <player>
+        <name>Jack Daly</name>
+        <position>Back Row</position>
+        <caps>7</caps>
+        <image>jackdaly.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/jack-daly/</url>
+    </player>
+    <player>
+        <name>Shane Daly</name>
+        <position>Full Back/Wing</position>
+        <caps>52</caps>
+        <image>shanedaly.jpg</image>
+        <points>45</points>
+        <honours>Ireland (2 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/shane-daly/</url>
+    </player>
+    <player>
+        <name>Keith Earls</name>
+        <position>Universal Back</position>
+        <caps>194</caps>
+        <image>keithearls.jpg</image>
+        <points>320</points>
+        <honours>Ireland (98 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/keith-earls/</url>
+    </player>
+    <player>
+        <name>Chris Farrell</name>
+        <position>Centre</position>
+        <caps>71</caps>
+        <image>chrisfarrell.jpg</image>
+        <points>45</points>
+        <honours>Ireland (15 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/chris-farrell/</url>
+    </player>
+    <player>
+        <name>Malakai Fekitoa</name>
+        <position>Centre</position>
+        <caps>6</caps>
+        <image>malakaifekitoa.jpg</image>
+        <points>0</points>
+        <honours>All Blacks (24 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/malakai-fekitoa/</url>
+    </player>
+    <player>
+        <name>James French</name>
+        <position>Prop</position>
+        <caps>1</caps>
+        <image>jamesfrench.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/james-french/</url>
+    </player>
+    <player>
+        <name>Antoine Frisch</name>
+        <position>Centre</position>
+        <caps>1</caps>
+        <image>antoinefrisch.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/antoine-frisch/</url>
+    </player>
+    <player>
+        <name>Dan Goggin</name>
+        <position>Centre</position>
+        <caps>80</caps>
+        <image>dangoggin.jpg</image>
+        <points>50</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/dan-goggin/</url>
+    </player>
+    <player>
+        <name>Mike Haley</name>
+        <position>Full Back</position>
+        <caps>82</caps>
+        <image>mikehaley.jpg</image>
+        <points>80</points>
+        <honours>Ireland (1 Cap)</honours>
+        <url>https://www.munsterrugby.ie/squad/mike-haley/</url>
+    </player>
+    <player>
+        <name>Ben Healy</name>
+        <position>Fly Half</position>
+        <caps>45</caps>
+        <image>benhealy.jpg</image>
+        <points>257</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/ben-healy/</url>
+    </player>
+    <player>
+        <name>John Hodnett</name>
+        <position>Back Row</position>
+        <caps>25</caps>
+        <image>johnhodnett.jpg</image>
+        <points>10</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/john-hodnett/</url>
+    </player>
+    <player>
+        <name>Paddy Kelly</name>
+        <position>Lock</position>
+        <caps>0</caps>
+        <image>paddykelly.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/paddy-kelly/</url>
+    </player>
+    <player>
+        <name>Alex Kendellen</name>
+        <position>Back Row</position>
+        <caps>23</caps>
+        <image>alexkendellen.jpg</image>
+        <points>15</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/alex-kendellen/</url>
+    </player>
+    <player>
+        <name>Dave Kilcoyne</name>
+        <position>Prop</position>
+        <caps>207</caps>
+        <image>davekilcoyne.jpg</image>
+        <points>105</points>
+        <honours>Ireland (48 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/dave-kilcoyne/</url>
+    </player>
+    <player>
+        <name>Jean Kleyn</name>
+        <position>Lock</position>
+        <caps>117</caps>
+        <image>jeankleyn.jpg</image>
+        <points>70</points>
+        <honours>Ireland (5 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/jean-kleyn/</url>
+    </player>
+    <player>
+        <name>Keynan Knox</name>
+        <position>Prop</position>
+        <caps>30</caps>
+        <image>keynanknox.jpg</image>
+        <points>15</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/keynan-knox/</url>
+    </player>
+    <player>
+        <name>Jeremy Loughman</name>
+        <position>Prop</position>
+        <caps>76</caps>
+        <image>jeremyloughman.jpg</image>
+        <points>30</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/jeremy-loughman/</url>
+    </player>
+    <player>
+        <name>Chris Moore</name>
+        <position>Hooker</position>
+        <caps>0</caps>
+        <image>chrismoore.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/chris-moore/</url>
+    </player>
+    <player>
+        <name>Conor Murray</name>
+        <position>Scrum Half</position>
+        <caps>167</caps>
+        <image>conormurray.jpg</image>
+        <points>180</points>
+        <honours>Ireland (99 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/conor-murray/</url>
+    </player>
+    <player>
+        <name>Calvin Nash</name>
+        <position>Wing</position>
+        <caps>39</caps>
+        <image>calvinnash.jpg</image>
+        <points>35</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/calvin-nash/</url>
+    </player>
+    <player>
+        <name>Liam O'Connor</name>
+        <position>Prop</position>
+        <caps>33</caps>
+        <image>liamoconnor.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/liam-oconnor/</url>
+    </player>
+    <player>
+        <name>Eoin O'Connor</name>
+        <position>Lock</position>
+        <caps>4</caps>
+        <image>eoinoconnor.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/eoin-oconnor/</url>
+    </player>
+    <player>
+        <name>Jack O'Donoghue</name>
+        <position>Back Row</position>
+        <caps>170</caps>
+        <image>jackodonoghue.jpg</image>
+        <points>120</points>
+        <honours>Ireland (2 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/jack-odonoghue/</url>
+    </player>
+    <player>
+        <name>Peter O'Mahony</name>
+        <position>Back Row</position>
+        <caps>164</caps>
+        <image>peteromahony.jpg</image>
+        <points>75</points>
+        <honours>Ireland (87 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/peter-omahony/</url>
+    </player>
+    <player>
+        <name>Jack O'Sullivan</name>
+        <position>Back Row</position>
+        <caps>29</caps>
+        <image>jackosullivan.jpg</image>
+        <points>20</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/jack-osullivan/</url>
+    </player>
+    <player>
+        <name>Paddy Patterson</name>
+        <position>Scrum Half</position>
+        <caps>11</caps>
+        <image>paddypatterson.jpg</image>
+        <points>0</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/paddy-patterson/</url>
+    </player>
+    <player>
+        <name>Roman Salanoa</name>
+        <position>Prop</position>
+        <caps>12</caps>
+        <image>romansalanoa.jpg</image>
+        <points>5</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/roman-salanoa/</url>
+    </player>
+    <player>
+        <name>Niall Scannell</name>
+        <position>Hooker</position>
+        <caps>145</caps>
+        <image>niallscannell.jpg</image>
+        <points>100</points>
+        <honours>Ireland (20 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/niall-scannell/</url>
+    </player>
+    <player>
+        <name>Rory Scannell</name>
+        <position>Centre</position>
+        <caps>162</caps>
+        <image>roryscannell.jpg</image>
+        <points>168</points>
+        <honours>Ireland (3 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/rory-scannell/</url>
+    </player>
+    <player>
+        <name>RG Snyman</name>
+        <position>Lock</position>
+        <caps>4</caps>
+        <image>rgsnyman.jpg</image>
+        <points>5</points>
+        <honours>South Africa (23 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/rg-snyman/</url>
+    </player>
+    <player>
+        <name>Fineen Wycherly</name>
+        <position>Lock</position>
+        <caps>88</caps>
+        <image>fineenwycherly.jpg</image>
+        <points>35</points>
+        <honours>Ireland (1 Cap)</honours>
+        <url>https://www.munsterrugby.ie/squad/fineen-wycherly/</url>
+    </player>
+    <player>
+        <name>Josh Wycherly</name>
+        <position>Prop</position>
+        <caps>30</caps>
+        <image>joshwycherly.jpg</image>
+        <points>10</points>
+        <honours>No International Caps</honours>
+        <url>https://www.munsterrugby.ie/squad/josh-wycherly/</url>
+    </player>
+    <player>
+        <name>Simon Zebo</name>
+        <position>Wing</position>
+        <caps>159</caps>
+        <image>simonzebo.jpg</image>
+        <points>345</points>
+        <honours>Ireland (35 Caps)</honours>
+        <url>https://www.munsterrugby.ie/squad/simon-zebo/</url>
+    </player>
+</dataroot>
