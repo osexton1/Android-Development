@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#002D6A"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/moreDetailsPlayerName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:background="#BF2203"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Player Name"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/moreDetailsPlayerImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/moreDetailsPlayerPosition"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp"
+        android:background="#BF2203"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Player Position"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/moreDetailsPlayerCaps"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="2dp"
+        android:background="#BF2203"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Player Caps"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/moreDetailsPlayerPoints"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="2dp"
+        android:background="#BF2203"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Player Points Scored"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/moreDetailsPlayerHonours"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginBottom="5dp"
+        android:background="#BF2203"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Player Honours"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/webDetailsButton"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:padding="10dp"
+        android:text="Web Details" />
+
+</LinearLayout>
